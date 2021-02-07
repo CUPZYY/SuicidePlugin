@@ -1,5 +1,5 @@
 name: suicidePlugin
-version: v1.0
+version: 1.0
 author: CUPZYY
 main: tk.cupzyy.suicidePlugin.SuicidePlugin
 api-version: 1.16
