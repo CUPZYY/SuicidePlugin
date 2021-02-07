@@ -61,3 +61,6 @@ target/
 
 # DB's
 db/
+
+# Output
+out/
