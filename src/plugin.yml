@@ -1,0 +1,10 @@
+name: suicidePlugin
+version: v1.0
+author: CUPZYY
+main: tk.cupzyy.suicidePlugin.SuicidePlugin
+api-version: 1.16
+commands:
+  kill:
+    description: Murders you
+    usage: /kill
+    aliases: [murderme, suicide, killme]
