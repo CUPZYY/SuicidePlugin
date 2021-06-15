@@ -15,7 +15,7 @@ public class SuicideCommands implements CommandExecutor {
             return true;
         }
         Player player = (Player) sender;
-        if (cmd.getName().equalsIgnoreCase("kill")){
+        if (cmd.getName().equalsIgnoreCase("kill", "suicide", "die", "selfdie")){
             player.setHealth(0.0);
         }
         return true;
